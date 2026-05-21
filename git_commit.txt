@@ -1,0 +1,37 @@
+Id CommandLine                                                                                         
+  -- -----------                                                                                         
+   1 try { . "c:\Users\hp\AppData\Local\Programs\Microsoft VS Code\0958016b2a\resources\app\out\vs\wor...
+   2 ls                                                                                                  
+   3 (C:\Users\hp\anaconda3\shell\condabin\conda-hook.ps1) ; (conda activate base)                       
+   4 rm testing.py                                                                                       
+   5 ls                                                                                                  
+   6 python testing.py                                                                                   
+   7 dir                                                                                                 
+   8 python tetsing.py                                                                                   
+   9 dir                                                                                                 
+  10 python tetsing.py                                                                                   
+  11 dir                                                                                                 
+  12 ls                                                                                                  
+  13 ls -l                                                                                               
+  14 python tetsting.py                                                                                  
+  15 python testing.py                                                                                   
+  16 python testing.py                                                                                   
+  17 clear                                                                                               
+  18 python testing.py                                                                                   
+  19 ls                                                                                                  
+  20 dir                                                                                                 
+  21 python testing.py                                                                                   
+  22 dir                                                                                                 
+  23 git commit -m "hi"                                                                                  
+  24 git status                                                                                          
+  25 git status                                                                                          
+  26 rm testing.py                                                                                       
+  27 ls                                                                                                  
+  28 dir                                                                                                 
+  29 git status                                                                                          
+  30 restore testing.py                                                                                  
+  31 git restore testing.py                                                                              
+  32 git status                                                                                          
+  33 ls                                                                                                  
+  34 clear                                                                                               
+
