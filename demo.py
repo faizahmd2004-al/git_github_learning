@@ -1,6 +1,9 @@
-def myfun():
-    a = 10
-    return a
+"""Demo module."""
 
 
-myfun()
+def hello():
+    """Return greeting message."""
+    return "Hello, World!"
+
+
+hello()
