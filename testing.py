@@ -1,3 +1,6 @@
-"""Modeule for testing purpose """
+def hello():
 
-print("hello faiz kase ho")
+    """This is a simple function that prints a greeting message.
+    """
+    return "Hello, World!"
+hello()
